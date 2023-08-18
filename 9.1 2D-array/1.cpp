@@ -12,12 +12,12 @@ int main()
     int a[n][m];
     for(int i=0; i<n; i++) {
         for (int j = 0; j < m; j++) {
-            cin >> a[i][j];
+            cin >> a[i][j]; // input matrix
         }
     }
-
+    
     int key;
-    cout << "Enter key: "; cin >> key;
+    cout << "Enter key: "; cin >> key; //input key
 
     bool flag = false;
 
