@@ -20,7 +20,7 @@ int main()
         sum += a[j];
         j++;
     }
-
+    
     if(sum == s) {
         cout << i+1 << " " << j <<  endl; 
         return 0;
