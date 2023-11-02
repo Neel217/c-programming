@@ -1,5 +1,13 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "bitset": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "climits": "cpp",
+        "ios": "cpp",
+        "map": "cpp"
     }
 }
